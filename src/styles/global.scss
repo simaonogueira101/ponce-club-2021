@@ -1,0 +1,45 @@
+html, body {
+  color: $dark-af;
+  font-family: Works;
+  font-weight: 300;
+  background-color: $light-af;
+}
+
+h1 {
+  font-family: Works;
+  font-size: $u * 8;
+  font-style: italic;
+  font-weight: 300;
+}
+
+h2 {
+  font-family: Mono;
+  font-size: $u * 8;
+  font-weight: 100;
+}
+
+h3 {
+  font-family: Mono;
+  font-weight: 500;
+  font-size: $u * 4;
+}
+
+p {
+  font-family: Works;
+  font-weight: 300;
+  font-size: $u * 3;
+}
+
+.t-c {
+  text-align: center;
+}
+
+.w {
+  width: 100%;
+
+  .c {
+    margin: 0 auto;
+    max-width: $max;
+    width: 100%;
+  }
+}
