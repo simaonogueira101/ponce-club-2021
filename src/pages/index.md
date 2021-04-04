@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience 123
+title: Simão Ponce de Leão Policarpo Nogueira
 image: /img/20201026-burocratik-redlight-retratos-001-min.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Welcome to my personal web platform.
+subheading: A little piece of me, in zeros and ones, lost in the matrix.
 mainpitch:
   title: Why Kaldi
   description: >
