@@ -2,15 +2,12 @@
 templateKey: index-page
 title: Simão Ponce de Leão Policarpo Nogueira
 image: /img/20201026-burocratik-redlight-retratos-001-min.jpg
-heading: Welcome to my personal web platform.
-subheading: A little piece of me, in zeros and ones, lost in the matrix.
+heading: 45% family, friends & beer/coffee; 45% people, tech & work; 10% future
+  & innovation.
+subheading: " "
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Welcome to my personal web platform.
+  description: A little piece of me, in zeros and ones, lost in the matrix.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
