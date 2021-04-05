@@ -42,7 +42,8 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 title: Simão Ponce de Leão Policarpo Nogueira
-subtitle: Teste
+subtitle: 45% family, friends & beer/coffee; 45% people, tech & work; 10%
+  future   & innovation.
 info:
   title: Oi!
   columns:
