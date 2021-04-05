@@ -52,6 +52,12 @@ info:
       columns:
         - text: Column 1
         - text: Column 2
+  sections:
+    - title: Section 1
+      columns:
+        - text: column 1
+        - text: column 2
+        - text: column 3
 main:
   heading: Great coffee with no compromises
   description: >
