@@ -1,17 +1,11 @@
 ---
-templateKey: index-page
-title: Simão Ponce de Leão Policarpo Nogueira
-image: /img/20201026-burocratik-redlight-retratos-001-min.jpg
 heading: 45% family, friends & beer/coffee; 45% people, tech & work; 10% future
   & innovation.
 subheading: " "
+templateKey: index-page
 mainpitch:
   title: Welcome to my personal web platform.
   description: A little piece of me, in zeros and ones, lost in the matrix.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -47,6 +41,12 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+title: Simão Ponce de Leão Policarpo Nogueira
+subtitle: Teste
+info:
+  title: Oi!
+  columns:
+    - text: oi 123
 main:
   heading: Great coffee with no compromises
   description: >
@@ -63,4 +63,9 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+image: /img/20201026-burocratik-redlight-retratos-001-min.jpg
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 ---
