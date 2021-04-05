@@ -47,6 +47,11 @@ info:
   title: Oi!
   columns:
     - text: oi 123
+  section:
+    - title: Section 1
+      columns:
+        - text: Column 1
+        - text: Column 2
 main:
   heading: Great coffee with no compromises
   description: >
